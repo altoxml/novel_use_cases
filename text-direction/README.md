@@ -1,0 +1,1 @@
+See also https://github.com/altoxml/board/issues/4
